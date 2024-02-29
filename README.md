@@ -1,7 +1,7 @@
 # project title:
 NIST isotherm download sort and fit
 # Motivation:
-downloads and fits gas suitable isotherm model for CH4, CO2, N2 from NIST database
+downloads and fits suitable gas isotherm model for CH4, CO2, N2 from NIST database
 # How to setup:
 1- select the folder of the desired gas (CH4, CO2, N2)
 2- run the main_program.m file

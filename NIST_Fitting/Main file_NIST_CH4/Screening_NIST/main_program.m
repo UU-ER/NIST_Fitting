@@ -3,8 +3,8 @@
 % Utrecht University, Netherlands 
 % Copernicus Institute of Sustainable Development, Section of Energy & Resources 
 %
-% Year: 	2022
-% MATLAB: 	R2021a
+% Year: 	2023
+% MATLAB: 	R2022b
 % Authors:	Alexa Grimm, Kian Karimi (group of Dr. Matteo Gazzani) 
 % 
 %

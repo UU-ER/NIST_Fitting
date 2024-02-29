@@ -5,7 +5,7 @@
 %
 % Year: 	2023
 % MATLAB: 	R2022b
-% Authors:	Alexa Grimm, Kian Karimi (group of Dr. Matteo Gazzani) 
+% Authors:	 Kian Karimi, Alexa Grimm (group of Dr. Matteo Gazzani) 
 % 
 %
 % Purpose: 
